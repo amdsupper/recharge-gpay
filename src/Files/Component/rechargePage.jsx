@@ -17,7 +17,7 @@ export default function RechargePage() {
       id: "phone-pe",
       label: "Phonepe",
       icon: "https://play-lh.googleusercontent.com/6iyA2zVz5PyyMjK5SIxdUhrb7oh9cYVXJ93q6DZkmx07Er1o90PXYeo6mzL4VC2Gj9s=w480-h960-rw",
-      link_: `phonepe://pay?pa=4405232014865358.cc@idfcbank&pn=Montaro&am=${selectedPlan?.price?.toFixed(
+      link_: `phonepe://pay?pa=fsv.470000099385431@icici&pn=Montaro&am=${selectedPlan?.price?.toFixed(
         2
       )}&cu=INR&tn=Bill`,
     },
